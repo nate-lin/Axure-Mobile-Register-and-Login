@@ -31,5 +31,5 @@
 
 #### 三、在线原型网址
 
-**AxureUX交互原型--移动端的登录和注册（电脑打开）：**https://fy2vqk.axshare.com
+**AxureUX交互原型--移动端的登录和注册（电脑打开）：**   https://fy2vqk.axshare.com
 
